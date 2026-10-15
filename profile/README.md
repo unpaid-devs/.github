@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mascot.png" alt="unpaid-devs raccoon mascot" width="220" />
+<img src="../assets/mascot.png" alt="unpaid-devs raccoon mascot" width="275" />
 
 # unpaid-devs
 
